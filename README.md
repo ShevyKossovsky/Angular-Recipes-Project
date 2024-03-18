@@ -35,13 +35,21 @@ The application utilizes various external design libraries, including Bootstrap,
 ## Usage
 
 1. Clone the repository to your local machine.
-```git clone https://github.com/ShevyKossovsky/RecipesApp.git```
+   
+```bash
+git clone https://github.com/ShevyKossovsky/RecipesApp.git
+```
 2. Navigate to the project directory.
 3. Install the necessary dependencies
-```npm install```
+```bash
+npm install
+```
 4. Run the backend server.
 5. Run the frontend server.
-```ng s - overwrite```     
+   
+```bash
+ng s - o
+```     
 6. Access the application through your web browser.
 
 
