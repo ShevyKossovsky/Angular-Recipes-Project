@@ -27,9 +27,11 @@ The application utilizes various external libraries, including Angular Material,
 ## Usage
 
 1. Clone the repository to your local machine.
-```git clone https://github.com/ShevyKossovsky/RecipesApp.git```
-2. Navigate to the cliemt project directory.
-3. Install the necessary dependencies
+```
+git clone https://github.com/ShevyKossovsky/RecipesApp.git
+```
+3. Navigate to the cliemt project directory.
+4. Install the necessary dependencies
 ```
 npm install
 ```
